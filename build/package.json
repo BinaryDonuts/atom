@@ -1,9 +1,9 @@
 {
-  "name": "atom-build",
-  "description": "Atom build",
+  "name": "bd-atom-build",
+  "description": "Binary Donut Custom Atom build",
   "repository": {
     "type": "git",
-    "url": "https://github.com/atom/atom.git"
+    "url": "https://github.com/BinaryDonuts/atom.git"
   },
   "dependencies": {
     "async": "~0.2.9",
@@ -14,7 +14,7 @@
     "grunt": "~0.4.1",
     "grunt-atom-shell-installer": "^0.23.0",
     "grunt-cli": "~0.1.9",
-    "grunt-coffeelint": "git+https://github.com/atom/grunt-coffeelint.git#cfb99aa99811d52687969532bd5a98011ed95bfe",
+    "grunt-coffeelint": "git+https://github.com/BinaryDonuts/grunt-coffeelint.git#cfb99aa99811d52687969532bd5a98011ed95bfe",
     "grunt-contrib-coffee": "~0.12.0",
     "grunt-contrib-csslint": "~0.1.2",
     "grunt-contrib-less": "~0.8.0",
